@@ -1,0 +1,3 @@
+Email Notifications
+
+Settings << Notifications << add email id << save
